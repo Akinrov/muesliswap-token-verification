@@ -1,0 +1,10 @@
+{
+    "policyId": "585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477",
+    "name": "IBILECOIN",
+    "symbol": "BLC",
+    "website": "https://IBILECOIN.com",
+    "description": "The premier Indegenous valued token on the cardano Blockchain",
+    "totalSupply": 21000000,
+    "amounts": [1, 10, 20, 30, 50, 100, 250, 500, 750, 1000, 2000, 5000, 7000, 10000, 50000, 100000]
+    "Decimal": [6]
+}
